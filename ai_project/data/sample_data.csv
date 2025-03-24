@@ -1,0 +1,21 @@
+suburb,bedrooms,bathrooms,area_sqm,property_type,income_level,price
+Carlton,2,3,93,Townhouse,73545,674023
+Brunswick,1,1,128,Townhouse,119641,595477
+Preston,2,2,127,House,106036,752197
+Richmond,1,2,174,Apartment,111208,624579
+St Kilda,3,1,195,Apartment,93949,788100
+St Kilda,3,3,78,Apartment,61386,772727
+Brunswick,4,1,88,Apartment,95274,839015
+Coburg,4,3,58,House,118482,900472
+Brunswick,3,3,98,House,108108,825623
+Parkville,1,2,108,House,81832,662501
+St Kilda,4,1,124,Townhouse,72125,840041
+Northcote,1,2,92,Townhouse,62129,616909
+St Kilda,3,1,97,Apartment,72406,774536
+Richmond,2,1,143,Townhouse,67696,703501
+Carlton,3,2,196,Apartment,72842,784720
+Preston,2,2,182,Townhouse,94487,703842
+St Kilda,4,2,63,Townhouse,91801,842796
+Parkville,2,3,124,Townhouse,50081,675455
+Fitzroy,3,2,124,Apartment,56876,782634
+St Kilda,4,1,104,Townhouse,105187,838132
