@@ -9,6 +9,9 @@ This repo contains the **AI model**, **chatbot**, **backend logic**, **data inte
 **Live Demo**:  
 
 **To enter the virtual environment, please run the following command in the terminal(MAC OS)**:
+
 source venv/bin/activate
+
 **To exit the virtual environment, please run the following command in the terminal(MAC OS)**:
+
 deactivate
